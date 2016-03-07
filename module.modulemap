@@ -1,5 +1,5 @@
 module MagickWand [system] {
     header "/usr/local/opt/imagemagick/include/ImageMagick-6/wand/MagickWand.h"
-    link "MagickWand"
+    link "MagickWand-6.Q16"
     export *
 }
