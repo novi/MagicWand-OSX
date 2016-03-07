@@ -1,2 +1,2 @@
-# MagicWand-OSX
-MagicWand(ImageMagick) module map
+# MagickWand-OSX
+MagickWand(ImageMagick) module map
